@@ -1,0 +1,155 @@
+Phase 0
+Number of false negatives: 
+0
+Number of false positives:
+0
+Probability of false positives:
+0
+False Positive Elements:
+
+> > >
+
+Phase 1
+Number of false negatives: 
+0
+Number of false positives:
+1
+Probability of false positives:
+0.01
+False Positive Elements:
+clover
+
+> > >
+
+Phase 2
+Number of false negatives: 
+0
+Number of false positives:
+1
+Probability of false positives:
+0.01
+False Positive Elements:
+suck
+
+> > >
+
+Phase 3
+Number of false negatives: 
+0
+Number of false positives:
+1
+Probability of false positives:
+0.01
+False Positive Elements:
+arm
+
+> > >
+
+Phase 4
+Number of false negatives: 
+0
+Number of false positives:
+5
+Probability of false positives:
+0.05
+False Positive Elements:
+multiply
+rambunctious
+mature
+delicious
+cow
+
+> > >
+
+Phase 5
+Number of false negatives: 
+0
+Number of false positives:
+4
+Probability of false positives:
+0.04
+False Positive Elements:
+macabre
+connect
+sticky
+lame
+
+> > >
+
+Phase 6
+Number of false negatives: 
+0
+Number of false positives:
+4
+Probability of false positives:
+0.04
+False Positive Elements:
+reflect
+arch
+extra-small
+spoof
+
+> > >
+
+Phase 7
+Number of false negatives: 
+0
+Number of false positives:
+8
+Probability of false positives:
+0.08
+False Positive Elements:
+fertile
+secretive
+opposite
+glow
+steady
+street
+ice
+stamp
+
+> > >
+
+Phase 8
+Number of false negatives: 
+0
+Number of false positives:
+6
+Probability of false positives:
+0.06
+False Positive Elements:
+pig
+pollution
+sedate
+agreement
+cap
+fragile
+
+> > >
+
+Phase 9
+Number of false negatives: 
+0
+Number of false positives:
+8
+Probability of false positives:
+0.08
+False Positive Elements:
+one
+knock
+serve
+odd
+unadvised
+spandex
+health
+sleepy
+
+> > >
+
+Total Statistics:
+Number of false negatives:
+0
+Number of false positives:
+38
+Probability of false positives:
+0.038
